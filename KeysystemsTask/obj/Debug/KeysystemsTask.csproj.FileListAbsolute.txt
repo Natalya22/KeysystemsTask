@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\KeysystemsTask\KeysystemsTask\bin\Debug\KeysystemsTask.exe.config
+C:\Users\Lenovo\source\repos\KeysystemsTask\KeysystemsTask\bin\Debug\KeysystemsTask.exe
+C:\Users\Lenovo\source\repos\KeysystemsTask\KeysystemsTask\bin\Debug\KeysystemsTask.pdb
+C:\Users\Lenovo\source\repos\KeysystemsTask\KeysystemsTask\obj\Debug\KeysystemsTask.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\KeysystemsTask\KeysystemsTask\obj\Debug\KeysystemsTask.Form1.resources
+C:\Users\Lenovo\source\repos\KeysystemsTask\KeysystemsTask\obj\Debug\KeysystemsTask.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\KeysystemsTask\KeysystemsTask\obj\Debug\KeysystemsTask.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\KeysystemsTask\KeysystemsTask\obj\Debug\KeysystemsTask.exe
+C:\Users\Lenovo\source\repos\KeysystemsTask\KeysystemsTask\obj\Debug\KeysystemsTask.pdb
